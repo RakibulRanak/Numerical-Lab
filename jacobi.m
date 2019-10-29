@@ -30,4 +30,4 @@ end
 iteration
 disp('solution')
 xnew
-    
+#https://youtu.be/0NvoPApzV90?t=165
