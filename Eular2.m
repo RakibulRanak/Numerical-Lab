@@ -12,6 +12,6 @@ for x = x0 : h : xn-h
    x = x + h;
    y = y + dy(x,y)*h;
  
-  fprintf ('%f \t %f\n',x,y);
+  printf ('%f \t %f\n',x,y);
   
 end
